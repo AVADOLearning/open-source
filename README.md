@@ -20,24 +20,32 @@ Floream's strategy when approaching the development of new projects is to:
 
 ## Usage of open source
 
-Include the following:
+Floream will strive to consider FOSS when selecting solutions to meet business requirements:
 
-- [ ] Use of open source tools (e.g. build systems, interpreters), existing solutions (e.g. Moodle plugins) and libraries (e.g. jQuery and accompanying plugins)
-- [ ] Patches to such software should be released upstream or at least made publicly available in the hope that they're useful to others
-
-## Benefits to Floream
-
-Include the following:
-
-- [ ] Lower overheads on new developments, as we're able to derive our work from existing projects
-- [ ] Possible lead in to lower overheads on maintenance, as our changes can be incorporated upstream
-- [ ] Reusability
-- [ ] Community involvement/wide base of ideas
-- [ ] Wider audience for auditing the source for security and stability vulnerabilities
+1. When procuring software for use within the business, Floream will strive to actively and fairly consider open source solutions alongside proprietary solutions.
+2. Such procurement decisions will be based upon:
+    * capability;
+    * security;
+    * manageability;
+    * relative value for money of each solution based on lifetime total cost of ownership (including exit and transition costs); and
+    * scalability and ability to meet future business requirements.
+3. Where there is no significant cost difference between a FOSS platform and a proprietary platform, FOSS platforms will be selected for their inherent flexibility.
+4. Where Floream has customised FOSS to meet its own requirements and the release of such customisations is possible without violating partnership agreements, Floream will aim to release its changes upstream or at least make its patches publicly available.
 
 ## Criteria for release
 
-- [ ] Code review and appropriate modifications
+Floream will only release source code to the community where the code meets the following criteria:
+
+1. The release of the source code does not violate Floream's partnership agreements.
+2. The source code has utility outside of Floream.
+3. The source code is of sufficient quality, having been audited and verified by the development team, to the best of our ability, to be free of defects.
+
+The following are examples of source code which cannot be released by Floream:
+
+* Source code specifically related to the user interface and branding requirements of Floream's partnerships, e.g. themes, as Floream is not authorised to redistribute the branding within such source code.
+
+Include the following:
+
 - [ ] Do we make a distinction between projects we've already done work on and projects going forwards?
 
 ## Community participation
@@ -54,14 +62,9 @@ Include the following:
 - [ ] GPL for Moodle components, as it's a requirement of the GPL v3 under which the core of the platform is licensed
 - [ ] CLA for contributions from the community to clearly identify ownership and rights to fair use
 
-## Exceptions
-
-Include the following:
-
-- [ ] Themes containing branding are exempt from release. This does not include base/framework themes, which are specifically designed to exclude branding
-
 ## Credits
 
 This policy is inspired by the following resources:
 
 * [The 18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md), which has an excellent structure and introduction.
+* [The UK Government's "All About Open Source" document](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78959/All_About_Open_Source_v2_0.pdf)
