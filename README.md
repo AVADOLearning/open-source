@@ -4,11 +4,17 @@ Floream is the UK’s leading provider of online learning for professional quali
 
 * * *
 
+## Key terms
+
+The following specialised terminology will be used throughout this document:
+
+* FOSS (Free and Open Source Software) - software made available under a license guaranteeing users the freedom to access, modify and redistribute its source code.
+
 ## Brief
 
 Floream's strategy when approaching the development of new projects is to:
 
-1. Prefer the use of Free and Open Source Software (FOSS), where appropriate, within our projects and contribute our changes to such projects to the open source community.
+1. Prefer the use of FOSS, where appropriate, within our projects and contribute our modifications to such projects to the open source community.
 2. Perform our development activities in the open.
 3. Where possible, and without infringing upon branding agreements, to publish all source code created by Floream, regardless of whether it was developed in-house or by a contractor acting on Floream's behalf.
 
