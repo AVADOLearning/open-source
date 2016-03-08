@@ -43,6 +43,7 @@ Floream will only release source code to the community where the code meets the 
 The following are examples of source code which cannot be released by Floream:
 
 * Source code specifically related to the user interface and branding requirements of Floream's partnerships, e.g. themes, as Floream is not authorised to redistribute the branding within such source code.
+* Configuration pertaining to the security of Floream's infrastructure.
 
 Include the following:
 ## 5. Community participation
