@@ -1,6 +1,6 @@
-# Open source at Floream
+# Open source at AVADO
 
-Floream is the UK’s leading provider of online learning for professional qualifications and has recently begun a programme of international expansion. The Floream development team is responsible for the development and maintenance of the campus, exams, customer relationship management and other supporting systems within the business. Working with a number of internal customers requires a constant focus on reuse and extensibility across all of our design and development activities.
+AVADO is the UK’s leading provider of online learning for professional qualifications and has recently begun a programme of international expansion. The AVADO development team is responsible for the development and maintenance of the campus, exams, customer relationship management and other supporting systems within the business. Working with a number of internal customers requires a constant focus on reuse and extensibility across all of our design and development activities.
 
 * * *
 
@@ -12,17 +12,17 @@ The following specialised terminology will be used throughout this document:
 
 ## 2. Brief
 
-Floream's strategy when approaching the development of new projects is to:
+AVADO's strategy when approaching the development of new projects is to:
 
 1. Prefer the use of FOSS, where appropriate, within our projects and contribute our modifications to such projects to the open source community.
 2. Perform our development activities in the open.
-3. Where possible, and without infringing upon branding agreements, to publish all source code created by Floream, regardless of whether it was developed in-house or by a contractor acting on Floream's behalf.
+3. Where possible, and without infringing upon branding agreements, to publish all source code created by AVADO, regardless of whether it was developed in-house or by a contractor acting on AVADO's behalf.
 
 ## 3. Usage of open source
 
-Floream will strive to consider FOSS when selecting solutions to meet business requirements:
+AVADO will strive to consider FOSS when selecting solutions to meet business requirements:
 
-1. When procuring software for use within the business, Floream will strive to actively and fairly consider open source solutions alongside proprietary solutions.
+1. When procuring software for use within the business, AVADO will strive to actively and fairly consider open source solutions alongside proprietary solutions.
 2. Such procurement decisions will be based upon:
     * capability;
     * security;
@@ -30,29 +30,29 @@ Floream will strive to consider FOSS when selecting solutions to meet business r
     * relative value for money of each solution based on lifetime total cost of ownership (including exit and transition costs); and
     * scalability and ability to meet future business requirements.
 3. Where there is no significant cost difference between a FOSS platform and a proprietary platform, FOSS platforms will be selected for their inherent flexibility.
-4. Where Floream has customised FOSS to meet its own requirements and the release of such customisations is possible without violating partnership agreements, Floream will aim to release its changes upstream or at least make its patches publicly available.
+4. Where AVADO has customised FOSS to meet its own requirements and the release of such customisations is possible without violating partnership agreements, AVADO will aim to release its changes upstream or at least make its patches publicly available.
 
 ## 4. Criteria for release
 
-Floream will only release source code to the community where the code meets the following criteria:
+AVADO will only release source code to the community where the code meets the following criteria:
 
-1. The release of the source code does not violate Floream's partnership agreements.
-2. The source code has utility outside of Floream.
+1. The release of the source code does not violate AVADO's partnership agreements.
+2. The source code has utility outside of AVADO.
 3. The source code is of sufficient quality, having been audited and verified by the development team, to the best of our ability, to be free of defects.
 
-The following are examples of source code which cannot be released by Floream:
+The following are examples of source code which cannot be released by AVADO:
 
-* Source code specifically related to the user interface and branding requirements of Floream's partnerships, e.g. themes, as Floream is not authorised to redistribute the branding within such source code.
-* Configuration pertaining to the security of Floream's infrastructure.
+* Source code specifically related to the user interface and branding requirements of AVADO's partnerships, e.g. themes, as AVADO is not authorised to redistribute the branding within such source code.
+* Configuration pertaining to the security of AVADO's infrastructure.
 
 ## 5. Community participation
 
-In the interests of forming and fostering collaboration with communities around our FOSS projects, Floream will:
+In the interests of forming and fostering collaboration with communities around our FOSS projects, AVADO will:
 
 1. Commit developer time on a regular basis to triaging issues and pull requests generated by the community.
 2. Communicate externally, in the form of per-project roadmaps, our plans for each of our projects.
-3. Where ideas and contributions from the community do not match our intended roadmap for a project, Floream will clearly and publicly communicate functional and technical objections to the contribution.
-4. Accept that the community is free to fork FOSS projects where Floream and the community are unable to reach agreement regarding a project's roadmap.
+3. Where ideas and contributions from the community do not match our intended roadmap for a project, AVADO will clearly and publicly communicate functional and technical objections to the contribution.
+4. Accept that the community is free to fork FOSS projects where AVADO and the community are unable to reach agreement regarding a project's roadmap.
 
 ## 6. Licensing
 
